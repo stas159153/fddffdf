@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Montserrat;
+}
+.conteiner{
+    position: relative;
+    width: 60vw;
+    margin: auto;
+    
+}
+.conteiner-span{
+    position: absolute;
+    right: 15vw;
+    bottom:15vh ;
+    font-size: 300px;
+    opacity: 0.6;
+    user-select: none;
+    color: cyan;
+}
+.conteiner-image{
+width: 100%;
+
+}
